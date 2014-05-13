@@ -1,0 +1,16 @@
+* FILE FORMAT:
+* > = beginning of profile, the next 3 lines is profile info
+* line 1 = username & password
+* line 2 = profile info
+* line 3 = bike info
+* line 4 = NEED TO ADD PLAYER'S (unused) USABLE ITEMS!!!
+* >
+* [username],[password]
+* [player number],[money],[lives],[bonus lives],[# games won],[# games lost],[6 key chars]
+* [engine],[body],[tires],[front_weapon],[back_weapon],[special],[bike_function],[color]
+* NEED TO ADD ANY USABLE ITEMS!!!
+
+>
+J. Smith,default
+1,2500,3,1,0,0,QWEASD
+DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,BLUE
